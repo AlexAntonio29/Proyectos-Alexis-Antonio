@@ -22,6 +22,7 @@ export const Rutas = () => {
                     {path:"/servicio", element:<Servicio/>},
                     {path:"/contacto", element:<Contacto/>},
                     {path:"/portafolio", element:<Portafolio/>},
+                    {path:"/Proyectos-Alexis-Antonio/", element:<Portafolio/>},
                     {path:"/portafolio/:id", element:<Proyecto/> , errorElement:<ErrorPagina/>},
                     
                     {path:"/*", element:<h1 >Error 404</h1>}
