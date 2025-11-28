@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Proyectos-Alexis-Antonio/static/css/main.5103d3f8.css",
+    "main.js": "/Proyectos-Alexis-Antonio/static/js/main.3a2043af.js",
+    "static/media/p4.PNG": "/Proyectos-Alexis-Antonio/static/media/p4.895bf357eef4046b2c74.PNG",
+    "static/media/p3.PNG": "/Proyectos-Alexis-Antonio/static/media/p3.e293eb60556cfc91760f.PNG",
+    "static/media/3.png": "/Proyectos-Alexis-Antonio/static/media/3.4a44d4e6e20d24eb7d66.png",
+    "static/media/1.png": "/Proyectos-Alexis-Antonio/static/media/1.cafbe5854bc3217805bf.png",
+    "static/media/2.png": "/Proyectos-Alexis-Antonio/static/media/2.91e5e5fc3221a3126bfd.png",
+    "static/media/p2.PNG": "/Proyectos-Alexis-Antonio/static/media/p2.1ba48c01e9bf8a7af641.PNG",
+    "static/media/celT.png": "/Proyectos-Alexis-Antonio/static/media/celT.bd4d4085e0b9b336ae51.png",
+    "static/media/p1.PNG": "/Proyectos-Alexis-Antonio/static/media/p1.8e5ab9c93f92034ef66e.PNG",
+    "static/media/paginas-web.png": "/Proyectos-Alexis-Antonio/static/media/paginas-web.e6fda77507cb1cc7a621.png",
+    "index.html": "/Proyectos-Alexis-Antonio/index.html",
+    "main.5103d3f8.css.map": "/Proyectos-Alexis-Antonio/static/css/main.5103d3f8.css.map",
+    "main.3a2043af.js.map": "/Proyectos-Alexis-Antonio/static/js/main.3a2043af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5103d3f8.css",
+    "static/js/main.3a2043af.js"
+  ]
+}
