@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proyectos-Alexis-Antonio/static/css/main.5103d3f8.css",
-    "main.js": "/Proyectos-Alexis-Antonio/static/js/main.c0486e3d.js",
+    "main.js": "/Proyectos-Alexis-Antonio/static/js/main.25872b57.js",
     "static/media/p4.PNG": "/Proyectos-Alexis-Antonio/static/media/p4.895bf357eef4046b2c74.PNG",
     "static/media/p3.PNG": "/Proyectos-Alexis-Antonio/static/media/p3.e293eb60556cfc91760f.PNG",
     "static/media/3.png": "/Proyectos-Alexis-Antonio/static/media/3.4a44d4e6e20d24eb7d66.png",
@@ -13,10 +13,10 @@
     "static/media/paginas-web.png": "/Proyectos-Alexis-Antonio/static/media/paginas-web.e6fda77507cb1cc7a621.png",
     "index.html": "/Proyectos-Alexis-Antonio/index.html",
     "main.5103d3f8.css.map": "/Proyectos-Alexis-Antonio/static/css/main.5103d3f8.css.map",
-    "main.c0486e3d.js.map": "/Proyectos-Alexis-Antonio/static/js/main.c0486e3d.js.map"
+    "main.25872b57.js.map": "/Proyectos-Alexis-Antonio/static/js/main.25872b57.js.map"
   },
   "entrypoints": [
     "static/css/main.5103d3f8.css",
-    "static/js/main.c0486e3d.js"
+    "static/js/main.25872b57.js"
   ]
 }
