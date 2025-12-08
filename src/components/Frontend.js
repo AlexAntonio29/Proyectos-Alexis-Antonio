@@ -5,7 +5,7 @@ import { Footer } from './layout/Footer'
 
 export const Frontend = () => {
   return (
-    <div>
+    <div  className='layout'>
 
        
         {/*HEAD*/}
@@ -20,9 +20,11 @@ export const Frontend = () => {
         </section>
         
 
-        
+        <footer className='footer'>
+          <Footer/>
+        </footer>
         {/*FOOTER*/}
-        <Footer/>
+        
     
 
     </div>
