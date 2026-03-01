@@ -30,7 +30,8 @@ export const Proyecto = () => {
     </div>)
     :(<div className='work-item'>
     
-    <div className='mask' style={{height:"500px"}}>
+    <div className='mask' style={{minHeight:"50vw"
+    }}>
         {< img src={require(`./images/${proyecto.id}.PNG`)}/>}
     </div>
     <h1>{proyecto.name}</h1>

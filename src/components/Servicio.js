@@ -64,7 +64,7 @@ let {current:descripcion}=designDescription;
               
              </div>
 
-          <div style={{display:"flex"}}> 
+          <div className="bloque" style={{display:"flex"}}> 
           <div className={`mask ${activate===servicio.id?'show':'hidden'}`}>
             <img className={`img ${activate===servicio.id?'show':'hidden'}`} 
             onClick={ ()=>activarDatos(servicio.id)} style={{cursor:"pointer"}}  
