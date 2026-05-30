@@ -15,7 +15,8 @@ export const ListadoTrabajos = ({limite}) => {
           <article className='work-item'  key={trabajos.id}>
             <div className='mask'>
            
-              < img src={require(`./images/${trabajos.id}.PNG`)}/>
+            
+          <Link to={"/portafolio/"+trabajos.name}><img  src={require(`./images/${trabajos.id}.PNG`)} ></img></Link>    
             
 
               

@@ -31,6 +31,38 @@ export const trabajos=[
         'categoria':'Aplicacion Movil',
         'tema':'Matematicas',
         'descripcion':'Calculadora simple creado para dispositivos Android cuya función es poder realizar funciones aritmeticas sencillas.'
+    },
+    {
+        'id':'p5',
+        'name':'Eco-Recicler (videojuego)',
+        'tecnologia':'JavaScript, Phaser',
+        'categoria':'Web, videojuego',
+        'tema':'Entretenimiento',
+        'descripcion':'Videojuegos web sobre el cuidado del medio ambiente, el juego consiste en juntar la mayor cantidad de basura mientras te defiendes de enemigos que dañan al medio ambiente, JUNTA LA MAYOR CANTIDAD DE PUNTOS!!'
+    },
+    {
+        'id':'p6',
+        'name':'Mi Gustito Snacks',
+        'tecnologia':'JavaScript, React',
+        'categoria':'Web, tienda digital',
+        'tema':'ventas',
+        'descripcion':'Mi gustito snacks es un negocios local, quien quiso expandir sus horizontes a través de la web, el desarrollo de este sistema se enfoca en tomar pedidos vía internet para la gestion y envío a domicilio'
+    },
+    {
+        'id':'p7',
+        'name':'Red moon (Videojuego)',
+        'tecnologia':'JavaScript, Phaser',
+        'categoria':'Web, videojuego',
+        'tema':'Entretenimiento',
+        'descripcion':'Videojuegos web con narrativa inmersiva y jugabilidad desafiante similar a titulos populares como Blashpemous, Dark souls, etc, sigue en la aventura del caballero anonimo a desentrañar el misterio de la luna roja mientras conoce a un gran numero de personajes, cuyos destinos dependen de tus actos'
+    },
+    {
+        'id':'p8',
+        'name':'Generador de texto',
+        'tecnologia':'JavaScript, Html, Css',
+        'categoria':'Web',
+        'tema':'Herramienta',
+        'descripcion':'Lorem Ipsum es una herramienta web que genera texto aleatoria con el objetivo de servir de relleno para el testeo y prueba de sistemas y web.'
     }
 
 ];

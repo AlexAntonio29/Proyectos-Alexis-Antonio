@@ -17,15 +17,20 @@ export const Inicio = () => {
 
           <h1>
 
-           <span style={{fontWeight:"Bolder", fontSize:"35px"}}>Hola </span> 
-         soy Alexis Antonio de México,desarrollador de software Web, aplicaciones de escritorio
-          y Movil con Android a traves del lenguaje Java, Ofrezco mis servicios en todo tipo de proyectos de menor o mayor escala.
-
+           
+         Mi nombre es Alexis Antonio Angel, soy un desarrollador de sistemas de software, me especializo en la creacion de backend seguro y optimizado y en diseño de frontend llamativo para diferentes audiencias, 
+         me especializo en proyectos de menor a mayor escala validando la que sea mas adecuada para tus necesidades y presupesto.
           </h1>
 
           <h2>Tu proyecto que estas deseando puede volverse realidad y cobrar suma relevancia en internet y alcanzar a mas publico
-            gracias a las apps moviles. <Link className='button' to="/contacto">contáctame</Link>
+            gracias a las apps moviles, generar mas audiencia por la web o tener automatizado tu negocio gracias a un sistema eficiente que te ahorrara muchos dolores de cabeza y dinero. 
           </h2>
+
+
+          <div className='content-button'>
+            <Link className='button' to="/contacto">contáctame</Link> 
+            </div>
+          
 
           <section>
             <h2>Algunos de mis proyectos:</h2>

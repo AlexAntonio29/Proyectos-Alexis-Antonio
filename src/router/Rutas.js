@@ -31,7 +31,7 @@ export const Rutas = () => {
             }
         ],
         {
-            basename:"/Proyectos-Alexis-Antonio/"
+            basename:"/Proyectos-Alexis-Antonio"
         }
     );
 
