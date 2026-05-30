@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Proyectos-Alexis-Antonio/static/css/main.618f40da.css",
-    "main.js": "/Proyectos-Alexis-Antonio/static/js/main.c5f5f8f0.js",
+    "main.css": "/Proyectos-Alexis-Antonio/static/css/main.a605f12f.css",
+    "main.js": "/Proyectos-Alexis-Antonio/static/js/main.49437ae3.js",
     "static/media/p4.PNG": "/Proyectos-Alexis-Antonio/static/media/p4.895bf357eef4046b2c74.PNG",
     "static/media/p3.PNG": "/Proyectos-Alexis-Antonio/static/media/p3.e293eb60556cfc91760f.PNG",
     "static/media/3.png": "/Proyectos-Alexis-Antonio/static/media/3.4a44d4e6e20d24eb7d66.png",
     "static/media/1.png": "/Proyectos-Alexis-Antonio/static/media/1.cafbe5854bc3217805bf.png",
+    "static/media/p6.PNG": "/Proyectos-Alexis-Antonio/static/media/p6.1f13e36a0cc8cb90d4b8.PNG",
     "static/media/2.png": "/Proyectos-Alexis-Antonio/static/media/2.91e5e5fc3221a3126bfd.png",
+    "static/media/p5.PNG": "/Proyectos-Alexis-Antonio/static/media/p5.2eb682f77ed86a709780.PNG",
     "static/media/p2.PNG": "/Proyectos-Alexis-Antonio/static/media/p2.1ba48c01e9bf8a7af641.PNG",
+    "static/media/p7.PNG": "/Proyectos-Alexis-Antonio/static/media/p7.56b16d7a0659fdbfe60d.PNG",
+    "static/media/p8.PNG": "/Proyectos-Alexis-Antonio/static/media/p8.3a706e8e398db6a9ae12.PNG",
     "static/media/celT.png": "/Proyectos-Alexis-Antonio/static/media/celT.bd4d4085e0b9b336ae51.png",
     "static/media/p1.PNG": "/Proyectos-Alexis-Antonio/static/media/p1.8e5ab9c93f92034ef66e.PNG",
     "static/media/paginas-web.png": "/Proyectos-Alexis-Antonio/static/media/paginas-web.e6fda77507cb1cc7a621.png",
     "index.html": "/Proyectos-Alexis-Antonio/index.html",
-    "main.618f40da.css.map": "/Proyectos-Alexis-Antonio/static/css/main.618f40da.css.map",
-    "main.c5f5f8f0.js.map": "/Proyectos-Alexis-Antonio/static/js/main.c5f5f8f0.js.map"
+    "main.a605f12f.css.map": "/Proyectos-Alexis-Antonio/static/css/main.a605f12f.css.map",
+    "main.49437ae3.js.map": "/Proyectos-Alexis-Antonio/static/js/main.49437ae3.js.map"
   },
   "entrypoints": [
-    "static/css/main.618f40da.css",
-    "static/js/main.c5f5f8f0.js"
+    "static/css/main.a605f12f.css",
+    "static/js/main.49437ae3.js"
   ]
 }
