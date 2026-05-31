@@ -1,5 +1,6 @@
 import React from 'react'
-import {RouterProvider,createBrowserRouter, Navigate} from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import {RouterProvider,createBrowserRouter, Navigate, useLocation} from 'react-router-dom'
 import { Inicio } from '../components/Inicio'
 import { Portafolio } from '../components/Portafolio';
 import { Curriculum } from '../components/Curriculum';
@@ -9,12 +10,27 @@ import { Frontend } from '../components/Frontend';
 import { Proyecto } from '../components/Proyecto';
 import { ErrorPagina } from '../components/ErrorPagina';
 
+const ScrollToTopWrapper = ({ children }) => {
+  const { pathname } = useLocation();
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+  
+  return children;
+};
+
 export const Rutas = () => {
 
     const router= createBrowserRouter(
         [
             {
-                path:'/', element:<Frontend/>,
+                path:'/', element:(
+                <ScrollToTopWrapper>
+                    <Frontend/>
+                </ScrollToTopWrapper>
+                
+            ),
                 children:[
                     {index:true, element:<Navigate to="/inicio"/>},
                     {path:"/inicio", element:<Inicio/>},

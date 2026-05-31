@@ -11,6 +11,30 @@ const enviar=(e)=>{
   const descripcion=e.target.descripcion.value;
 
   console.log(`${nombre} ${apellidos} ${email} ${descripcion}`);
+
+    const form = document.createElement('form');
+  form.method = 'POST';
+  form.action = 'https://formsubmit.co/alexantonioangel2910@gmail.com';
+  
+  // Añadir los campos
+  const campos = {
+    'nombre': `${nombre} ${apellidos}`,
+    'email': email,
+    'mensaje': descripcion,
+    '_subject': 'Nuevo Contacto desde Portfolio'
+  };
+  
+  for (let [key, value] of Object.entries(campos)) {
+    const input = document.createElement('input');
+    input.type = 'hidden';
+    input.name = key;
+    input.value = value;
+    form.appendChild(input);
+  }
+  
+  document.body.appendChild(form);
+  form.submit(); 
+  
 }
 
   return (
