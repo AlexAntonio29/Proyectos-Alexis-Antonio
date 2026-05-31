@@ -28,17 +28,24 @@ export const Proyecto = () => {
        <ErrorPagina/>
 
     </div>)
-    :(<div className='work-item'>
+    :(<div className='individual-section'>
     
-    <div className='mask' style={{minHeight:"50vw"
-    }}>
+    <div className='mask'>
         {< img src={require(`./images/${proyecto.id}.PNG`)}/>}
     </div>
+
+    <div className='content-section'>
+
     <h1>{proyecto.name}</h1>
     <span>Categoría:{proyecto.categoria}</span>
      <h3>{proyecto.tecnologia}</h3>
      <h2 style={{border:"none"}}>Tema:{proyecto.tema}</h2>
      <span>{proyecto.descripcion}</span>
+    </div>
+
+
+
+     
     </div>)
   
 }
