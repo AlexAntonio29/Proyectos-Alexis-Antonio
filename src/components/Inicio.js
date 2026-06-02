@@ -18,12 +18,12 @@ export const Inicio = () => {
           <h1>
 
            
-         Mi nombre es Alexis Antonio Angel, soy un desarrollador de sistemas de software, me especializo en la creacion de backend seguro y optimizado y en diseño de frontend llamativo para diferentes audiencias, 
-         me especializo en proyectos de menor a mayor escala validando la que sea mas adecuada para tus necesidades y presupesto.
+         Mi nombre es Alexis Antonio Angel, soy desarrollador de software, la creacion de backend seguro y diseño de frontend llamativo para diferentes audiencias es mi fuerte, 
+         trabajo en proyectos de menor a mayor escala validando la más adecuada para tus necesidades y presupesto.
           </h1>
 
-          <h2>Tu proyecto que estas deseando puede volverse realidad y cobrar suma relevancia en internet y alcanzar a mas publico
-            gracias a las apps moviles, generar mas audiencia por la web o tener automatizado tu negocio gracias a un sistema eficiente que te ahorrara muchos dolores de cabeza y dinero. 
+          <h2>Tu sistema deseado puede volverse realidad, cobrar suma relevancia en internet y alcanzar a mas publico
+            gracias a las apps moviles, generar mas audiencia por la web o tener automatizado tu negocio por un sistema eficiente que te ahorrará muchos dolores de cabeza y dinero. 
           </h2>
 
 
